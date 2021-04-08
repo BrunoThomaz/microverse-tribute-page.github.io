@@ -6,5 +6,6 @@
 #image {
     align-self: center;
     width: 30%;
+    max-width: 500px;
     height: auto;
 }
